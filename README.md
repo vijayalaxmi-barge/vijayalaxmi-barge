@@ -1,5 +1,4 @@
 ## Hi 👋 I'm Vijayalaxmi Barge
-
 🎓 B.E. Artificial Intelligence & Data Science (SPPU)  
 📊 Focused on Artificial Intelligence, Data Analysis, Machine Learning & Data Science  
 
