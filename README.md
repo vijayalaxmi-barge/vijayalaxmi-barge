@@ -1,11 +1,3 @@
-SECRET_KEY=mysecretkey123
-DATABASE_URL=sqlite:///F:/mindlens/mindlens/data/mhds.db
-FLASK_DEBUG=true
-FLASK_ENV=development
-
-
-
-
 ## Hi 👋 I'm Vijayalaxmi Barge
 🎓 B.E. Artificial Intelligence & Data Science (SPPU)  
 📊 Focused on Artificial Intelligence, Data Analysis, Machine Learning & Data Science  
